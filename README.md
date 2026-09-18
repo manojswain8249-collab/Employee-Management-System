@@ -98,12 +98,11 @@ Need to display screenshots of the project.
 ---
 
 ##  Author
+Manoranjan Swain
 
-Shree Saravanan
+B.Tech Computer Science & Engineering
 
-B.Tech Artificial Intelligence and Data Science
-
-Nehru Institute of Engineering and Technology
+pmec
 
 ---
 
@@ -117,7 +116,7 @@ Feel free to fork the repository and enhance the project.
 
 #  License
 
-This project is released under the MIT License.
+This project is released under the no License.
 
 ---
 
